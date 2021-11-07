@@ -1,0 +1,49 @@
+<!--DOCTYPE HTML-->
+<html>
+<head>
+<meta charset="utf-8">
+<title>Membuat Table HTML</title>
+<meta name="description" content="Belajar Membuat Table HTML">
+</head>
+<body>
+
+<!--punyo kito basamo --> 
+
+<font size="3" face="Comic sans MS"><u>Nama</u> : M Daffa Dezrian</font>
+<br><br>
+<font size="3" face="Comic sans MS"><u>NIM</u>  : 2002028</font>
+<br><br>
+<font size="3" face="Comic sans MS"><u>Matakuliah</u> : Pemrograman Berbasis Web</font>
+<br>
+  <br>
+    <br>  
+    <center>2
+<table border="1" cellpadding="4">
+
+  <tr>
+
+       <th align="left" bgcolor="grey" width="400">No</th>
+        <th align="left" bgcolor="grey" width="400">Nama Matakuliah</th>
+         <th  align="left" bgcolor="grey" width="400">IPK</th>
+
+  </tr>
+  <tr>
+
+        <td>1</td>
+         <td>B.inggris</td>
+          <td>4</td>
+
+  </tr>
+  <tr>
+
+        <td>2</td>
+         <td>Pemrograman Berbasis Web</td>
+          <td>4</td>
+
+  </tr>
+
+
+     </table>
+   </center>
+  </body>
+</html> 
